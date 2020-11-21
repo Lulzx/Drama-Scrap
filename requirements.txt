@@ -13,7 +13,7 @@ pydantic
 requests
 soupsieve
 starlette
-typing-extensions=
+typing-extensions
 urllib3
 uvicorn
 yarl
